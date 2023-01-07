@@ -1,0 +1,13 @@
+# リサイズ後の画像サイズ
+DSIZE_W = 1024
+DSIZE_H = 576
+
+# Canny法の2つの閾値
+CANNY_THRESHOLD1 = 130
+CANNY_THRESHOLD2 = 285
+
+# Hough変換の閾値
+HOUGH_THRESHOLD = 200
+
+# 対戦開始画像の直線の角度
+STARTING_RADIAN = 1.5358897
